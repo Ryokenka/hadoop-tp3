@@ -3,3 +3,4 @@ bob<->alice
 charlie<->bob
 david<->charlie
 eve<->alice
+charlie<->eve
