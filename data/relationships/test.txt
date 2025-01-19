@@ -1,3 +1,5 @@
 alice<->charlie
 bob<->alice
 charlie<->bob
+david<->charlie
+eve<->alice
